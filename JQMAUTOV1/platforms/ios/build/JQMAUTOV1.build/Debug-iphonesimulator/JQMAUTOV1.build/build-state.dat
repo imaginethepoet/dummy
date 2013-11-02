@@ -1,0 +1,663 @@
+TJQMAUTOV1
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Info.plist /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/JQMAUTOV1-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Script-304B58A110DAC018002A0835.sh
+cCpResource JQMAUTOV1/config.xml build/emulator/JQMAUTOV1.app/config.xml
+cCpResource JQMAUTOV1/Resources/icons/icon-72.png build/emulator/JQMAUTOV1.app/icon-72.png
+cCpResource JQMAUTOV1/Resources/icons/icon.png build/emulator/JQMAUTOV1.app/icon.png
+cCpResource JQMAUTOV1/Resources/icons/icon@2x.png build/emulator/JQMAUTOV1.app/icon@2x.png
+cCopyStringsFile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/en.lproj/Localizable.strings JQMAUTOV1/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/es.lproj/Localizable.strings JQMAUTOV1/Resources/es.lproj/Localizable.strings
+cCompileXIB /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.xib
+cCopyStringsFile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/de.lproj/Localizable.strings JQMAUTOV1/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/se.lproj/Localizable.strings JQMAUTOV1/Resources/se.lproj/Localizable.strings
+cCpResource JQMAUTOV1/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/JQMAUTOV1.app/Default-Landscape@2x~ipad.png
+cCpResource JQMAUTOV1/Resources/splash/Default-Landscape~ipad.png build/emulator/JQMAUTOV1.app/Default-Landscape~ipad.png
+cCpResource JQMAUTOV1/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/JQMAUTOV1.app/Default-Portrait@2x~ipad.png
+cCpResource JQMAUTOV1/Resources/splash/Default-Portrait~ipad.png build/emulator/JQMAUTOV1.app/Default-Portrait~ipad.png
+cCpResource JQMAUTOV1/Resources/splash/Default@2x~iphone.png build/emulator/JQMAUTOV1.app/Default@2x~iphone.png
+cCpResource JQMAUTOV1/Resources/splash/Default~iphone.png build/emulator/JQMAUTOV1.app/Default~iphone.png
+cCpResource JQMAUTOV1/Resources/splash/Default-568h@2x~iphone.png build/emulator/JQMAUTOV1.app/Default-568h@2x~iphone.png
+cCpResource JQMAUTOV1/Resources/icons/icon-72@2x.png build/emulator/JQMAUTOV1.app/icon-72@2x.png
+cProcessPCH /var/folders/_0/3hlsjwh90xv5d_nqctp8qfmw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/JQMAUTOV1-Prefix-aoxdakjvlrarnocoijwcdtsxcrrh/JQMAUTOV1-Prefix.pch.pch JQMAUTOV1/JQMAUTOV1-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/main.o /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/AppDelegate.o /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/MainViewController.o /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/JQMAUTOV1 normal i386
+cGenerateDSYMFile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app.dSYM /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/JQMAUTOV1
+cTouch /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005269CF9800000000000003B5
+t1382666136
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005269CF9B00000000000001A0
+t1382666139
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c000000005269CF9C0000000000059350
+t1382666140
+s365392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005269CF9C0000000000445870
+t1382666140
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005269CF9C00000000000EC820
+t1382666140
+s968736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005269CF9D00000000001BA530
+t1382666141
+s1811760
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/AppDelegate.m
+c000000005275632E00000000000013A9
+t1383424814
+s5033
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.m
+c000000005275632F000000000000126A
+t1383424815
+s4714
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.xib
+c000000005275632E0000000000001759
+t1383424814
+s5977
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/JQMAUTOV1-Info.plist
+c00000000527574D50000000000000736
+t1383429333
+s1846
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/JQMAUTOV1-Prefix.pch
+c000000005275632F00000000000003C3
+t1383424815
+s963
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/de.lproj/Localizable.strings
+c000000005275632E00000000000004BF
+t1383424814
+s1215
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/en.lproj/Localizable.strings
+c000000005275632E00000000000004AA
+t1383424814
+s1194
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/es.lproj/Localizable.strings
+c000000005275632E00000000000004B7
+t1383424814
+s1207
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/icons/icon-72.png
+c000000005275632E0000000000001350
+t1383424814
+s4944
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/icons/icon-72@2x.png
+c000000005275632E0000000000002DBA
+t1383424814
+s11706
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/icons/icon.png
+c000000005275632E0000000000000F3E
+t1383424814
+s3902
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/icons/icon@2x.png
+c000000005275632E0000000000001EBD
+t1383424814
+s7869
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/se.lproj/Localizable.strings
+c000000005275632E00000000000004AB
+t1383424814
+s1195
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default-568h@2x~iphone.png
+c000000005275632E00000000000085B1
+t1383424814
+s34225
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default-Landscape@2x~ipad.png
+c000000005275632E0000000000012DF4
+t1383424814
+s77300
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default-Landscape~ipad.png
+c000000005275632E0000000000008877
+t1383424814
+s34935
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default-Portrait@2x~ipad.png
+c000000005275632E0000000000012B02
+t1383424814
+s76546
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default-Portrait~ipad.png
+c000000005275632E00000000000085E6
+t1383424814
+s34278
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default@2x~iphone.png
+c000000005275632E0000000000007323
+t1383424814
+s29475
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default~iphone.png
+c000000005275632E000000000000289A
+t1383424814
+s10394
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/config.xml
+c00000000527574D500000000000008A3
+t1383429333
+s2211
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/main.m
+c000000005275632F000000000000045B
+t1383424815
+s1115
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/AppDelegate.o
+t1383429336
+s77668
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/JQMAUTOV1.LinkFileList
+c00000000527574D800000000000001FE
+t1383429336
+s510
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/MainViewController.o
+t1383429336
+s53632
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/main.o
+t1383429336
+s3160
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Script-304B58A110DAC018002A0835.sh
+c00000000527574D8000000000000002D
+t1383429336
+s45
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app
+t1383429336
+s748
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app.dSYM
+t2
+s0
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default-568h@2x~iphone.png
+t1383429336
+s34225
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default-Landscape@2x~ipad.png
+t1383429336
+s77300
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default-Landscape~ipad.png
+t1383429336
+s34935
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default-Portrait@2x~ipad.png
+t1383429336
+s76546
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default-Portrait~ipad.png
+t1383429336
+s34278
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default@2x~iphone.png
+t1383429336
+s29475
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default~iphone.png
+t1383429336
+s10394
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Info.plist
+t1383429336
+s1059
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/JQMAUTOV1
+t1383429336
+s300224
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/MainViewController.nib
+t1383429336
+s1332
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/PkgInfo
+t2
+s0
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/config.xml
+t1383429336
+s2211
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/de.lproj/Localizable.strings
+t1383429336
+s280
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/en.lproj/Localizable.strings
+t1383429336
+s166
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/es.lproj/Localizable.strings
+t1383429336
+s334
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/icon-72.png
+t1383429336
+s4944
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/icon-72@2x.png
+t1383429336
+s11706
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/icon.png
+t1383429336
+s3902
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/icon@2x.png
+t1383429336
+s7869
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/se.lproj/Localizable.strings
+t1383429336
+s283
+
+N/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/libCordova.a
+c00000000527574D800000000000DE750
+t1383429336
+s911184
+
+N/var/folders/_0/3hlsjwh90xv5d_nqctp8qfmw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/JQMAUTOV1-Prefix-aoxdakjvlrarnocoijwcdtsxcrrh/JQMAUTOV1-Prefix.pch.pch
+t1383429334
+s5343044
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7711ba58ac25b841^e999ba58ac25b841^---0#1#1#--18"Check dependencies36"D0DAE5C3-2AAE-4FFF-90B9-E9917D2BA5FA-
+
+CCompileC build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/AppDelegate.o /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405122136.896577
+e405122136.940077
+r1
+xCompileC
+xbuild/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/AppDelegate.o
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/AppDelegate.m
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/AppDelegate.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/AppDelegate.m202"CompileC build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/AppDelegate.o JQMAUTOV1/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4699e558ac25b841^efa9f058ac25b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/AppDelegate.m0000000000000000^4131"CompileC build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/AppDelegate.o JQMAUTOV1/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JQMAUTOV1-generated-files.hmap -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JQMAUTOV1-own-target-headers.hmap -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JQMAUTOV1-all-target-headers.hmap -iquote /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JQMAUTOV1-project-headers.hmap -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/usr/local/lib/include -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/UninstalledProducts/include -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/DerivedSources/i386 -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/DerivedSources -F/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator -include /var/folders/_0/3hlsjwh90xv5d_nqctp8qfmw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/JQMAUTOV1-Prefix-aoxdakjvlrarnocoijwcdtsxcrrh/JQMAUTOV1-Prefix.pch -MMD -MT dependencies -MF /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/AppDelegate.dia -c /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/AppDelegate.m -o /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/AppDelegate.o36"FFD95E6C-912D-4078-966F-3332AB7EF536-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCompileC build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/MainViewController.o /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405122136.896885
+e405122136.934176
+r1
+xCompileC
+xbuild/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/MainViewController.o
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.m
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.m216"CompileC build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/MainViewController.o JQMAUTOV1/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler82aae558ac25b841^e525ef58ac25b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.m0000000000000000^4173"CompileC build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/MainViewController.o JQMAUTOV1/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JQMAUTOV1-generated-files.hmap -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JQMAUTOV1-own-target-headers.hmap -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JQMAUTOV1-all-target-headers.hmap -iquote /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JQMAUTOV1-project-headers.hmap -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/usr/local/lib/include -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/UninstalledProducts/include -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/DerivedSources/i386 -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/DerivedSources -F/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator -include /var/folders/_0/3hlsjwh90xv5d_nqctp8qfmw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/JQMAUTOV1-Prefix-aoxdakjvlrarnocoijwcdtsxcrrh/JQMAUTOV1-Prefix.pch -MMD -MT dependencies -MF /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/MainViewController.dia -c /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.m -o /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/MainViewController.o36"D3772BEE-3635-45CB-AA8A-46B0E1D0FE2D-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCompileC build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/main.o /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405122136.896448
+e405122136.911243
+r1
+xCompileC
+xbuild/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/main.o
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/main.m180"CompileC build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/main.o JQMAUTOV1/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb090e558ac25b841^bf47e958ac25b841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/main.m0000000000000000^4073"CompileC build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/main.o JQMAUTOV1/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JQMAUTOV1-generated-files.hmap -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JQMAUTOV1-own-target-headers.hmap -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JQMAUTOV1-all-target-headers.hmap -iquote /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JQMAUTOV1-project-headers.hmap -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/usr/local/lib/include -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/UninstalledProducts/include -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/DerivedSources/i386 -I/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/DerivedSources -F/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator -include /var/folders/_0/3hlsjwh90xv5d_nqctp8qfmw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/JQMAUTOV1-Prefix-aoxdakjvlrarnocoijwcdtsxcrrh/JQMAUTOV1-Prefix.pch -MMD -MT dependencies -MF /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/main.dia -c /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/main.m -o /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/main.o36"68C4B7D6-8702-4D7E-9901-F6153A9A0B57-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCompileXIB /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.xib
+s405122136.886013
+e405122136.895598
+r1
+xCompileXIB
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compiling /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.xib51"CompileXIB JQMAUTOV1/Classes/MainViewController.xibd1e8e258ac25b841^2847e558ac25b841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.xib0000000000000000^895"CompileXIB JQMAUTOV1/Classes/MainViewController.xib    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 5.0 --output-format human-readable-text --compile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/MainViewController.nib /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Classes/MainViewController.xib36"AF4AD139-18D9-4B01-9863-9D3479DF1E29-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCopyStringsFile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/de.lproj/Localizable.strings JQMAUTOV1/Resources/de.lproj/Localizable.strings
+s405122136.886359
+e405122136.887331
+r1
+xCopyStringsFile
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/de.lproj/Localizable.strings
+xJQMAUTOV1/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy JQMAUTOV1/Resources/de.lproj/Localizable.strings122"CopyStringsFile build/emulator/JQMAUTOV1.app/de.lproj/Localizable.strings JQMAUTOV1/Resources/de.lproj/Localizable.strings12f9e258ac25b841^392ae358ac25b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/de.lproj/Localizable.strings0000000000000000^672"CopyStringsFile build/emulator/JQMAUTOV1.app/de.lproj/Localizable.strings JQMAUTOV1/Resources/de.lproj/Localizable.strings    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/de.lproj -- JQMAUTOV1/Resources/de.lproj/Localizable.strings36"B440F8D9-C564-48B0-920C-F17DE4767B96-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCopyStringsFile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/en.lproj/Localizable.strings JQMAUTOV1/Resources/en.lproj/Localizable.strings
+s405122136.885551
+e405122136.886751
+r1
+xCopyStringsFile
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/en.lproj/Localizable.strings
+xJQMAUTOV1/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy JQMAUTOV1/Resources/en.lproj/Localizable.strings122"CopyStringsFile build/emulator/JQMAUTOV1.app/en.lproj/Localizable.strings JQMAUTOV1/Resources/en.lproj/Localizable.strings09c1e258ac25b841^6002e358ac25b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/en.lproj/Localizable.strings0000000000000000^672"CopyStringsFile build/emulator/JQMAUTOV1.app/en.lproj/Localizable.strings JQMAUTOV1/Resources/en.lproj/Localizable.strings    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/en.lproj -- JQMAUTOV1/Resources/en.lproj/Localizable.strings36"9E2D1911-562A-4EB9-8D99-153E569EADDD-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCopyStringsFile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/es.lproj/Localizable.strings JQMAUTOV1/Resources/es.lproj/Localizable.strings
+s405122136.885596
+e405122136.886901
+r1
+xCopyStringsFile
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/es.lproj/Localizable.strings
+xJQMAUTOV1/Resources/es.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy JQMAUTOV1/Resources/es.lproj/Localizable.strings122"CopyStringsFile build/emulator/JQMAUTOV1.app/es.lproj/Localizable.strings JQMAUTOV1/Resources/es.lproj/Localizable.strings0dc4e258ac25b841^f10fe358ac25b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/es.lproj/Localizable.strings0000000000000000^672"CopyStringsFile build/emulator/JQMAUTOV1.app/es.lproj/Localizable.strings JQMAUTOV1/Resources/es.lproj/Localizable.strings    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/es.lproj -- JQMAUTOV1/Resources/es.lproj/Localizable.strings36"3B8B1205-0FC3-4EF1-9979-035D5F7D1C25-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCopyStringsFile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/se.lproj/Localizable.strings JQMAUTOV1/Resources/se.lproj/Localizable.strings
+s405122136.886502
+e405122136.887504
+r1
+xCopyStringsFile
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/se.lproj/Localizable.strings
+xJQMAUTOV1/Resources/se.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy JQMAUTOV1/Resources/se.lproj/Localizable.strings122"CopyStringsFile build/emulator/JQMAUTOV1.app/se.lproj/Localizable.strings JQMAUTOV1/Resources/se.lproj/Localizable.strings2affe258ac25b841^db33e358ac25b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/se.lproj/Localizable.strings0000000000000000^672"CopyStringsFile build/emulator/JQMAUTOV1.app/se.lproj/Localizable.strings JQMAUTOV1/Resources/se.lproj/Localizable.strings    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/se.lproj -- JQMAUTOV1/Resources/se.lproj/Localizable.strings36"E819C3FA-94C7-4DB6-974D-96B686BB76EE-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCpResource JQMAUTOV1/Resources/icons/icon-72.png build/emulator/JQMAUTOV1.app/icon-72.png
+s405122136.884918
+e405122136.885943
+r1
+xCpResource
+xJQMAUTOV1/Resources/icons/icon-72.png
+xbuild/emulator/JQMAUTOV1.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/emulator/JQMAUTOV1.app/icon-72.png89"CpResource JQMAUTOV1/Resources/icons/icon-72.png build/emulator/JQMAUTOV1.app/icon-72.png3a93e258ac25b841^b7d3e258ac25b841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/icon-72.png0034d4abddffdf42^714"CpResource JQMAUTOV1/Resources/icons/icon-72.png build/emulator/JQMAUTOV1.app/icon-72.png    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/icons/icon-72.png /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app36"C1F88B62-33FA-407A-AF05-40276A23F249-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCpResource JQMAUTOV1/Resources/icons/icon-72@2x.png build/emulator/JQMAUTOV1.app/icon-72@2x.png
+s405122136.888699
+e405122136.889467
+r1
+xCpResource
+xJQMAUTOV1/Resources/icons/icon-72@2x.png
+xbuild/emulator/JQMAUTOV1.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/JQMAUTOV1.app/icon-72@2x.png95"CpResource JQMAUTOV1/Resources/icons/icon-72@2x.png build/emulator/JQMAUTOV1.app/icon-72@2x.pngde8fe358ac25b841^a2b4e358ac25b841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/icon-72@2x.png0034d4abddffdf42^723"CpResource JQMAUTOV1/Resources/icons/icon-72@2x.png build/emulator/JQMAUTOV1.app/icon-72@2x.png    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/icons/icon-72@2x.png /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app36"5A410CD4-458F-413B-94CB-3E80D3F4FFEA-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCpResource JQMAUTOV1/Resources/icons/icon.png build/emulator/JQMAUTOV1.app/icon.png
+s405122136.885011
+e405122136.886066
+r1
+xCpResource
+xJQMAUTOV1/Resources/icons/icon.png
+xbuild/emulator/JQMAUTOV1.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy build/emulator/JQMAUTOV1.app/icon.png83"CpResource JQMAUTOV1/Resources/icons/icon.png build/emulator/JQMAUTOV1.app/icon.png789ce258ac25b841^fce2e258ac25b841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/icon.png0034d4abddffdf42^705"CpResource JQMAUTOV1/Resources/icons/icon.png build/emulator/JQMAUTOV1.app/icon.png    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/icons/icon.png /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app36"BFC6DDFA-95AE-4243-9DAD-A87BDE7C1154-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCpResource JQMAUTOV1/Resources/icons/icon@2x.png build/emulator/JQMAUTOV1.app/icon@2x.png
+s405122136.885190
+e405122136.886187
+r1
+xCpResource
+xJQMAUTOV1/Resources/icons/icon@2x.png
+xbuild/emulator/JQMAUTOV1.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/emulator/JQMAUTOV1.app/icon@2x.png89"CpResource JQMAUTOV1/Resources/icons/icon@2x.png build/emulator/JQMAUTOV1.app/icon@2x.png3fa9e258ac25b841^64eae258ac25b841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/icon@2x.png0034d4abddffdf42^714"CpResource JQMAUTOV1/Resources/icons/icon@2x.png build/emulator/JQMAUTOV1.app/icon@2x.png    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/icons/icon@2x.png /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app36"B637E636-50E4-4B44-BE6F-62E10C52399E-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCpResource JQMAUTOV1/Resources/splash/Default-568h@2x~iphone.png build/emulator/JQMAUTOV1.app/Default-568h@2x~iphone.png
+s405122136.888478
+e405122136.889279
+r1
+xCpResource
+xJQMAUTOV1/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/JQMAUTOV1.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/JQMAUTOV1.app/Default-568h@2x~iphone.png120"CpResource JQMAUTOV1/Resources/splash/Default-568h@2x~iphone.png build/emulator/JQMAUTOV1.app/Default-568h@2x~iphone.png9d83e358ac25b841^dba7e358ac25b841^---0#0#1#-19%DVTDocumentLocation2@138"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default-568h@2x~iphone.png0034d4abddffdf42^761"CpResource JQMAUTOV1/Resources/splash/Default-568h@2x~iphone.png build/emulator/JQMAUTOV1.app/Default-568h@2x~iphone.png    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default-568h@2x~iphone.png /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app36"41D81180-BE6C-45DB-A010-ED1E0C02CDED-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCpResource JQMAUTOV1/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/JQMAUTOV1.app/Default-Landscape@2x~ipad.png
+s405122136.886672
+e405122136.887575
+r1
+xCpResource
+xJQMAUTOV1/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/JQMAUTOV1.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/JQMAUTOV1.app/Default-Landscape@2x~ipad.png126"CpResource JQMAUTOV1/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/JQMAUTOV1.app/Default-Landscape@2x~ipad.pngd40ee358ac25b841^f33de358ac25b841^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default-Landscape@2x~ipad.png0034d4abddffdf42^770"CpResource JQMAUTOV1/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/JQMAUTOV1.app/Default-Landscape@2x~ipad.png    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default-Landscape@2x~ipad.png /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app36"4D0C9A46-973D-4DAC-87AA-DDA9C909D20C-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCpResource JQMAUTOV1/Resources/splash/Default-Landscape~ipad.png build/emulator/JQMAUTOV1.app/Default-Landscape~ipad.png
+s405122136.886919
+e405122136.887891
+r1
+xCpResource
+xJQMAUTOV1/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/JQMAUTOV1.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/JQMAUTOV1.app/Default-Landscape~ipad.png120"CpResource JQMAUTOV1/Resources/splash/Default-Landscape~ipad.png build/emulator/JQMAUTOV1.app/Default-Landscape~ipad.png7a1be358ac25b841^404fe358ac25b841^---0#0#1#-19%DVTDocumentLocation2@138"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default-Landscape~ipad.png0034d4abddffdf42^761"CpResource JQMAUTOV1/Resources/splash/Default-Landscape~ipad.png build/emulator/JQMAUTOV1.app/Default-Landscape~ipad.png    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default-Landscape~ipad.png /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app36"1A332EDF-5A0F-49B1-9E74-DB95DEA135E9-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCpResource JQMAUTOV1/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/JQMAUTOV1.app/Default-Portrait@2x~ipad.png
+s405122136.887289
+e405122136.888174
+r1
+xCpResource
+xJQMAUTOV1/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/JQMAUTOV1.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/emulator/JQMAUTOV1.app/Default-Portrait@2x~ipad.png124"CpResource JQMAUTOV1/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/JQMAUTOV1.app/Default-Portrait@2x~ipad.pngc235e358ac25b841^2d5fe358ac25b841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default-Portrait@2x~ipad.png0034d4abddffdf42^767"CpResource JQMAUTOV1/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/JQMAUTOV1.app/Default-Portrait@2x~ipad.png    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default-Portrait@2x~ipad.png /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app36"8B1FC584-2C03-4228-AE25-7DDF41F1975A-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCpResource JQMAUTOV1/Resources/splash/Default-Portrait~ipad.png build/emulator/JQMAUTOV1.app/Default-Portrait~ipad.png
+s405122136.887558
+e405122136.888388
+r1
+xCpResource
+xJQMAUTOV1/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/JQMAUTOV1.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/emulator/JQMAUTOV1.app/Default-Portrait~ipad.png118"CpResource JQMAUTOV1/Resources/splash/Default-Portrait~ipad.png build/emulator/JQMAUTOV1.app/Default-Portrait~ipad.png124ae358ac25b841^fc6de358ac25b841^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default-Portrait~ipad.png0034d4abddffdf42^758"CpResource JQMAUTOV1/Resources/splash/Default-Portrait~ipad.png build/emulator/JQMAUTOV1.app/Default-Portrait~ipad.png    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default-Portrait~ipad.png /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app36"4B6DD581-7670-47AE-A173-FE353BC0E613-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCpResource JQMAUTOV1/Resources/splash/Default@2x~iphone.png build/emulator/JQMAUTOV1.app/Default@2x~iphone.png
+s405122136.888017
+e405122136.888988
+r1
+xCpResource
+xJQMAUTOV1/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/JQMAUTOV1.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/emulator/JQMAUTOV1.app/Default@2x~iphone.png110"CpResource JQMAUTOV1/Resources/splash/Default@2x~iphone.png build/emulator/JQMAUTOV1.app/Default@2x~iphone.png3b73e358ac25b841^7c9ee358ac25b841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default@2x~iphone.png0034d4abddffdf42^746"CpResource JQMAUTOV1/Resources/splash/Default@2x~iphone.png build/emulator/JQMAUTOV1.app/Default@2x~iphone.png    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default@2x~iphone.png /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app36"FD52AABD-B633-46AC-8AC8-B4DF9516E799-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCpResource JQMAUTOV1/Resources/splash/Default~iphone.png build/emulator/JQMAUTOV1.app/Default~iphone.png
+s405122136.888229
+e405122136.889056
+r1
+xCpResource
+xJQMAUTOV1/Resources/splash/Default~iphone.png
+xbuild/emulator/JQMAUTOV1.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/JQMAUTOV1.app/Default~iphone.png104"CpResource JQMAUTOV1/Resources/splash/Default~iphone.png build/emulator/JQMAUTOV1.app/Default~iphone.png4375e358ac25b841^f9a0e358ac25b841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Default~iphone.png0034d4abddffdf42^737"CpResource JQMAUTOV1/Resources/splash/Default~iphone.png build/emulator/JQMAUTOV1.app/Default~iphone.png    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/Resources/splash/Default~iphone.png /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app36"6930F380-E317-4C2D-8B85-23D78B12D7EE-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CCpResource JQMAUTOV1/config.xml build/emulator/JQMAUTOV1.app/config.xml
+s405122136.884807
+e405122136.885896
+r1
+xCpResource
+xJQMAUTOV1/config.xml
+xbuild/emulator/JQMAUTOV1.app/config.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy build/emulator/JQMAUTOV1.app/config.xml71"CpResource JQMAUTOV1/config.xml build/emulator/JQMAUTOV1.app/config.xmle28fe258ac25b841^10cbe258ac25b841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/config.xml0034d4abddffdf42^679"CpResource JQMAUTOV1/config.xml build/emulator/JQMAUTOV1.app/config.xml    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/config.xml /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app36"DA6D0A8D-A8B8-4B5C-B16E-ED776475A2C0-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CGenerateDSYMFile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app.dSYM /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/JQMAUTOV1
+s405122136.985467
+e405122137.012827
+r1
+xGenerateDSYMFile
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app.dSYM
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/JQMAUTOV1
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Generate /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app.dSYM89"GenerateDSYMFile build/emulator/JQMAUTOV1.app.dSYM build/emulator/JQMAUTOV1.app/JQMAUTOV1f852fc58ac25b841^f5480359ac25b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app.dSYM0034d4abddffdf42^711"GenerateDSYMFile build/emulator/JQMAUTOV1.app.dSYM build/emulator/JQMAUTOV1.app/JQMAUTOV1    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/JQMAUTOV1 -o /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app.dSYM36"C19752D0-4DAA-42BC-9EEC-9BFCFBEEA642-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CLd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/JQMAUTOV1 normal i386
+s405122136.940773
+e405122136.984781
+r1
+xLd
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/JQMAUTOV1
+xnormal
+xi386
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/JQMAUTOV1.LinkFileList
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/main.o
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/AppDelegate.o
+d/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Link /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/JQMAUTOV153"Ld build/emulator/JQMAUTOV1.app/JQMAUTOV1 normal i38693e5f058ac25b841^fc1bfc58ac25b841^---0#0#1#--1918"Ld build/emulator/JQMAUTOV1.app/JQMAUTOV1 normal i386    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator -F/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator -filelist /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/JQMAUTOV1.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework AssetsLibrary /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/JQMAUTOV1_dependency_info.dat -o /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/JQMAUTOV136"728BB73C-32A3-408A-AD90-C2336E77AD48-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CPhaseScriptExecution Copy\ www\ directory /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Script-304B58A110DAC018002A0835.sh
+s405122136.731142
+e405122136.884512
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.138s
+ouser	0m0.055s
+osys	0m0.082s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'136"PhaseScriptExecution Copy\ www\ directory build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Script-304B58A110DAC018002A0835.sh3b8abb58ac25b841^826fe258ac25b841^-42"real	0m0.138suser	0m0.055ssys	0m0.082s3(21%IDEActivityLogMessage2@14"real	0m0.138s-405122136#1#14#-0#-----2@14"user	0m0.055s-405122136#15#14#-0#-----2@13"sys	0m0.082s-405122136#29#13#-0#-----0#0#1#--23515"PhaseScriptExecution Copy\ www\ directory build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Script-304B58A110DAC018002A0835.sh    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER imaginethepoet    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv ALWAYS_USE_SEPARATE_HEADERMAPS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD i386    setenv ARCHS_STANDARD_32_64_BIT i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv ARCHS_STANDARD_INCLUDING_64_BIT "i386 x86_64"    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build    setenv BUILD_ROOT /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator    setenv CACHE_ROOT /var/folders/_0/3hlsjwh90xv5d_nqctp8qfmw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode    setenv CCHROOT /var/folders/_0/3hlsjwh90xv5d_nqctp8qfmw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC YES    setenv CLANG_WARN_BOOL_CONVERSION YES    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_EMPTY_BODY YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app    setenv CODE_SIGNING_ALLOWED NO    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneSimulatorCodeSignContext    setenv COLOR_DIAGNOSTICS NO    setenv COMBINE_HIDPI_IMAGES NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/_0/3hlsjwh90xv5d_nqctp8qfmw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator    setenv CONFIGURATION_TEMP_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH JQMAUTOV1.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CREATE_INFOPLIST_SECTION_IN_BINARY NO    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEFAULT_KEXT_INSTALL_PATH /System/Library/Extensions    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH JQMAUTOV1.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/JQMAUTOV1.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME JQMAUTOV1.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH JQMAUTOV1.app/Executables    setenv EXECUTABLE_FOLDER_PATH JQMAUTOV1.app    setenv EXECUTABLE_NAME JQMAUTOV1    setenv EXECUTABLE_PATH JQMAUTOV1.app/JQMAUTOV1    setenv FILE_LIST /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH JQMAUTOV1.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME JQMAUTOV1.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER JQMAUTOV1/JQMAUTOV1-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNDECLARED_SELECTOR YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_FUNCTION YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/include \"/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/usr/local/lib/include\" \"/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/UninstalledProducts/include\" \"/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE JQMAUTOV1/JQMAUTOV1-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH JQMAUTOV1.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH JQMAUTOV1.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/JQMAUTOV1.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER imaginethepoet    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/JQMAUTOV1.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH JQMAUTOV1.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_DEPENDENCY_INFO_FILE /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/JQMAUTOV1_dependency_info.dat    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/JQMAUTOV1-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER YES    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_KEXT_INSTALL_PATH /Library/Extensions    setenv LIBRARY_SEARCH_PATHS "/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal/i386/JQMAUTOV1.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH JQMAUTOV1.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 13A3017    setenv MAC_OS_X_VERSION_ACTUAL 1090    setenv MAC_OS_X_VERSION_MAJOR 1090    setenv MAC_OS_X_VERSION_MINOR 0900    setenv MODULE_CACHE_DIR /var/folders/_0/3hlsjwh90xv5d_nqctp8qfmw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/ModuleCache    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Objects-normal    setenv OBJROOT /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load \"/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/libCordova.a\" -ObjC"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH JQMAUTOV1.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/PkgInfo    setenv PKGINFO_PATH JQMAUTOV1.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 11B508    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 70000    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH JQMAUTOV1.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH JQMAUTOV1.app/PrivateHeaders    setenv PRODUCT_NAME JQMAUTOV1    setenv PRODUCT_SETTINGS_PATH /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/JQMAUTOV1-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT JQMAUTOV1    setenv PROJECT_DERIVED_FILE_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/DerivedSources    setenv PROJECT_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PROJECT_FILE_PATH /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1.xcodeproj    setenv PROJECT_NAME JQMAUTOV1    setenv PROJECT_TEMP_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build    setenv PROJECT_TEMP_ROOT /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build    setenv PUBLIC_HEADERS_FOLDER_PATH JQMAUTOV1.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator "    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH JQMAUTOV1.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    setenv SDK_NAME iphonesimulator7.0    setenv SDK_PRODUCT_BUILD_VERSION 11B508    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH JQMAUTOV1.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/_0/3hlsjwh90xv5d_nqctp8qfmw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH JQMAUTOV1.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv SRCROOT /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_KEXT_INSTALL_PATH /System/Library/Extensions    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME JQMAUTOV1    setenv TARGET_BUILD_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator    setenv TARGET_NAME JQMAUTOV1    setenv TARGET_TEMP_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build    setenv TEMP_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build    setenv TEMP_FILES_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build    setenv TEMP_FILE_DIR /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build    setenv TEMP_ROOT /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH JQMAUTOV1.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER imaginethepoet    setenv USER_APPS_DIR /Users/imaginethepoet/Applications    setenv USER_LIBRARY_DIR /Users/imaginethepoet/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH JQMAUTOV1.app/version.plist    setenv VERSION_INFO_BUILDER imaginethepoet    setenv VERSION_INFO_FILE JQMAUTOV1_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:JQMAUTOV1  PROJECT:JQMAUTOV1-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME JQMAUTOV1.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 5A2053    setenv XCODE_VERSION_ACTUAL 0501    setenv XCODE_VERSION_MAJOR 0500    setenv XCODE_VERSION_MINOR 0500    setenv XPCSERVICES_FOLDER_PATH JQMAUTOV1.app/XPCServices    setenv YACC yacc    setenv arch i386    setenv variant normal    /bin/sh -c /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/JQMAUTOV1.build/Debug-iphonesimulator/JQMAUTOV1.build/Script-304B58A110DAC018002A0835.sh36"1A74FC22-38EC-4457-B624-A5E169D626EA-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CProcessInfoPlistFile /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Info.plist /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/JQMAUTOV1-Info.plist
+s405122136.729338
+e405122136.730497
+r1
+xProcessInfoPlistFile
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Info.plist
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/JQMAUTOV1-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Process /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/JQMAUTOV1-Info.plist91"ProcessInfoPlistFile build/emulator/JQMAUTOV1.app/Info.plist JQMAUTOV1/JQMAUTOV1-Info.plist2bc1ba58ac25b841^6002bb58ac25b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/JQMAUTOV1-Info.plist0000000000000000^827"ProcessInfoPlistFile build/emulator/JQMAUTOV1.app/Info.plist JQMAUTOV1/JQMAUTOV1-Info.plist    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/JQMAUTOV1/JQMAUTOV1-Info.plist -genpkginfo /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app/Info.plist36"7DDEF2BA-F7B8-4A6B-AEC9-03AEA1DAA58F-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
+CProcessPCH /var/folders/_0/3hlsjwh90xv5d_nqctp8qfmw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/JQMAUTOV1-Prefix-aoxdakjvlrarnocoijwcdtsxcrrh/JQMAUTOV1-Prefix.pch.pch JQMAUTOV1/JQMAUTOV1-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CTouch /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app
+s405122137.013524
+e405122137.016335
+r1
+xTouch
+x/Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Touch /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app34"Touch build/emulator/JQMAUTOV1.app52810359ac25b841^e82f0459ac25b841^---0#0#1#--455"Touch build/emulator/JQMAUTOV1.app    cd /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/imaginethepoet/Desktop/Projects/Github/dummy/JQMAUTOV1/platforms/ios/build/emulator/JQMAUTOV1.app36"8FFBBEFA-41F7-459D-A867-4F032D81AAFD-
+b44A938CE-2163-493C-89C2-65EC2519385A
+
